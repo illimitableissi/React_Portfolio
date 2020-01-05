@@ -7,7 +7,7 @@ import "./index.css"
 
 
 
-const portfolio = () => {
+const Portfolio = () => {
     return (
         <div>
         <Nav />
@@ -69,4 +69,4 @@ const portfolio = () => {
 };
 
 
-export default portfolio;
+export default Portfolio;
