@@ -3,8 +3,8 @@ import React from 'react';
 const Projects = () => {
     return (
         <div>
-<div className="container">
-     <div className="row animated fadeInUp delay-3s">
+<div className="container">     
+    <div className="row animated fadeInUp delay-3s">
         <div className="col s12 m4">
             <div className="card hoverable">
                 <div className="card-image">
