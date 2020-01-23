@@ -6,7 +6,9 @@ const Parallax = (props) => {
         <div className="section no-pad-bot">
             <div className="container">
                 <div className="row center">
+                    <div data-aos="fadeInRight">
                     <h2 className="header col s12 light center">{props.name}</h2>
+                    </div>
                 </div>
             </div>
         </div>

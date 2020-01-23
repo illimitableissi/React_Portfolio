@@ -10,7 +10,9 @@ export const Container = ({children}) => {
 
 export const Row = ({children}) => {
     return (
-        <div className="row animated fadeInUp delay-4s">{children}</div>   
+        <div data-aos="fadeInUp">
+        <div className="row">{children}</div>
+        </div>   
     );
 };
 
