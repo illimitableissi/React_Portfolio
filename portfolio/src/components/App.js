@@ -2,7 +2,7 @@ import React from 'react';
 
 const App = (props) => {
     return (
-        <div className="card hoverable">
+        <div className="card hoverable" data-aos="fadeInUp">
         <div className="card-image">
             <a href={props.link}><img src={props.image}></img></a>
             <span className="card-title">{props.name}</span>

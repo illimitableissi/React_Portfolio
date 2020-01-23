@@ -3,7 +3,7 @@ import React from 'react';
 const Card = () => {
     return (
         <div className="container">
-        <div className="row row animated rotateInDownLeft delay-1s">
+        <div className="row animated rotateInDownLeft delay-1s">
             <div className="col s12 m12">
                 <div className="card horizontal">
                     <div className="card-image">

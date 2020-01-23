@@ -10,9 +10,7 @@ export const Container = ({children}) => {
 
 export const Row = ({children}) => {
     return (
-        <div data-aos="fadeInUp">
         <div className="row">{children}</div>
-        </div>   
     );
 };
 
