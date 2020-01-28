@@ -4,7 +4,7 @@ const Contact = () => {
     return (
         <div>
     <div className="container">
-    <div className="row" data-aos="fadeInUp">
+    <div className="row">
         <form className="col s12 form-info">
           <div className="row">
             <div className="input-field col s6">

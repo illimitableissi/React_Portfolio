@@ -9,6 +9,9 @@ import App from './components/App';
 import MainParallax from './components/mainParallax';
 import Parallax from './components/Parallax';
 
+console.log(information[0].appLink);
+console.log(information[0].gitHub);
+
 
 
 
