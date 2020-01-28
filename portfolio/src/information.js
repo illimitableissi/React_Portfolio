@@ -82,28 +82,7 @@ const information = [
     gitHub: "https://github.com/illimitableissi/React-Clicky-Game.git",
     imgSrc: "images/placeholder15.jpg",
     message: "Click Game made through React.js",
-},
-{
-    name: "",
-    appLink: "",
-    gitHub: "",
-    imgSrc: "",
-    message: "",
-},
-{
-    name: "",
-    appLink: "",
-    gitHub: "",
-    imgSrc: "",
-    message: "",
-},
-{
-    name: "",
-    appLink: "",
-    gitHub: "",
-    imgSrc: "",
-    message: "",
-},
+}
 
 ]
 
