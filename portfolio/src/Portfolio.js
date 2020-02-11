@@ -52,6 +52,11 @@ const Portfolio = () => {
                 </Column>
                   ))}
             </Row>
+            <Row>
+                <Column>
+                    <App link={information[12].appLink} image={information[12].imgSrc} name={information[12].name} message={information[12].message} git={information[12].gitHub}/>
+                </Column>
+            </Row>
         </Container>
         <Parallax name="Feel free to contact me!" img="images/landscape3.jpg" />
         <Contact />  
