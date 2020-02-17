@@ -9,7 +9,7 @@ const Nav = () => {
             <div className="background">
                 <img src="images/background1.jpg"></img>
             </div>
-            <img className="circle" src="images/placeholder8.jpg"></img>
+            <img className="circle" src="images/myphoto.JPG"></img>
             <span className="white-text name">Isimemen Inegbedion</span>
             <span className="white-text email">isimemeni@gmail.com</span>
         </div>  
@@ -25,7 +25,7 @@ const Nav = () => {
     <div className="divider"></div>
     <br></br>
     <h6>Resume</h6>
-    <a href="images/Isi_Inegbedion Resume.pdf"><img src="images/pdf.png"></img></a>
+    <a href="images/Issi_Resume.pdf"><img src="images/pdf.png"></img></a>
 </ul>
 <a href="#" data-target="slide-out" className="sidenav-trigger blue-grey darken-4 btn">Personal Contact</a>
             
