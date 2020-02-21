@@ -10,7 +10,9 @@ const Card = () => {
                         <img src="images/myphoto.JPG"></img>
                     </div>
                     <div className="card-content">
-                        <p>"Hello! I am Isimemen Inegbedion, a Full Stack Web Developer based in Atlanta, GA. My goal is to provide clean and exciting user experiences and precise website and application functionality!"</p>
+                        <p>"Hello! I am Isimemen Inegbedion, a Full Stack Web Developer based in Atlanta, GA. My goal is to provide clean and exciting user experiences and precise website and application functionality!
+                            I am fluent in using HTML5, CSS, Javascript, jQuery, React, Express, Node, MySQL and MongoDB."
+                        </p>
                     </div>
               </div>
             </div>
