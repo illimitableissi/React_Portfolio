@@ -8,7 +8,11 @@ const App = (props) => {
             <a href={props.link}><img src={props.image}></img></a>
             <span className="card-title" data-aos="fadeInLeft" id="appName"><b>{props.name}</b></span>
         </div>
-            <div className="card-content" data-aos="fadeInRight"><p>{props.message}</p></div>
+            <div className="card-content" data-aos="fadeInRight">
+                <p>{props.message}</p>
+                <br></br>
+                <p>Technology used: {props.tech}</p>
+                </div>
             <div className="card-action">
               <a href={props.git}>See the Code</a>
         </div>

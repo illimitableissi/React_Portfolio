@@ -27,34 +27,34 @@ const Portfolio = () => {
             <Row>
             {infoOne.map(info => (
                 <Column>
-                    <App link={info.appLink} image={info.imgSrc} name={info.name} message={info.message} git={info.gitHub}/>
+                    <App link={info.appLink} image={info.imgSrc} name={info.name} message={info.message} git={info.gitHub} tech={info.tech}/>
                 </Column>
                   ))}
             </Row>
             <Row>
             {infoTwo.map(info => (
                 <Column>
-                    <App link={info.appLink} image={info.imgSrc} name={info.name} message={info.message} git={info.gitHub}/>
+                    <App link={info.appLink} image={info.imgSrc} name={info.name} message={info.message} git={info.gitHub} tech={info.tech}/>
                 </Column>
                   ))}
             </Row>
             <Row>
             {infoThree.map(info => (
                 <Column>
-                    <App link={info.appLink} image={info.imgSrc} name={info.name} message={info.message} git={info.gitHub}/>
+                    <App link={info.appLink} image={info.imgSrc} name={info.name} message={info.message} git={info.gitHub} tech={info.tech}/>
                 </Column>
                   ))}
             </Row>
             <Row>
             {infoFour.map(info => (
                 <Column>
-                    <App link={info.appLink} image={info.imgSrc} name={info.name} message={info.message} git={info.gitHub}/>
+                    <App link={info.appLink} image={info.imgSrc} name={info.name} message={info.message} git={info.gitHub} tech={info.tech}/>
                 </Column>
                   ))}
             </Row>
             <Row>
                 <Column>
-                    <App link={information[12].appLink} image={information[12].imgSrc} name={information[12].name} message={information[12].message} git={information[12].gitHub}/>
+                    <App link={information[12].appLink} image={information[12].imgSrc} name={information[12].name} message={information[12].message} git={information[12].gitHub} tech={information[12].tech} />
                 </Column>
             </Row>
         </Container>
