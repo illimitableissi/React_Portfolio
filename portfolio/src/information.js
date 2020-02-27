@@ -9,8 +9,8 @@ const information = [
 },
 {
     name: "Crystal Collector",
-    appLink: "https://illimitableissi.github.io/unit-4-game/",
-    gitHub: "https://github.com/illimitableissi/unit-4-game.git",
+    appLink: "https://illimitableissi.github.io/Save-the-Universe/",
+    gitHub: "https://github.com/illimitableissi/Save-the-Universe",
     imgSrc: "images/universe.PNG",
     message: "The app randomly picks a number and the user will have to click on the stones and match the number.",
     tech: "HTML5, CSS, Javascript, jQuery, Bootstrap"
@@ -82,7 +82,7 @@ const information = [
 {
     name: "The Krusty Krab",
     appLink: "https://thekrustykrab.herokuapp.com/",
-    gitHub: "https://github.com/illimitableissi/Project-2",
+    gitHub: "https://github.com/illimitableissi/The-Krusty-Krab",
     imgSrc: "images/krusty.PNG",
     message: "Spongebob Squarepants themed restaurant app.",
     tech: "Javascript, Node.js, MySQL, jQuery, Express.js, HTML5, Bootstrap, Materialize, CSS"
@@ -98,7 +98,7 @@ const information = [
 {
     name: "Kangaroo",
     appLink: "https://kangarooleasing.herokuapp.com/",
-    gitHub: "https://github.com/colin-green/Project-3",
+    gitHub: "https://github.com/illimitableissi/Kangaroo",
     imgSrc: "images/kangaroo.PNG",
     message: "Complete MERN stack app. Kangaroo helps lease holders looking to sub-lease their property find lease seekers",
     tech: "MongoDB, React.js, Express.js, Node, CSS, Bootstrap, "
