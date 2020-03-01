@@ -42,7 +42,7 @@ const information = [
 {
     name: "TraveLite",
     appLink: "https://usafowose.github.io/Project-1/",
-    gitHub: "https://github.com/usafowose/Project-1.git",
+    gitHub: "https://github.com/illimitableissi/Travelite",
     imgSrc: "images/travel.PNG",
     message: "Users can enter flight information and will be shown various flights, weather forecasts, and images of their chosen location.",
     tech: "HTML5, CSS, Javascript, jQuery, Materialize, Accuweather API, TravelPayouts API, Pixabay API"
