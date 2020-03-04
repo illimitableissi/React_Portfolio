@@ -13,6 +13,7 @@ var infoOne = [information[0], information[1], information[2]]
 var infoTwo = [information[3], information[4], information[5]]
 var infoThree = [information[6], information[7], information[8]]
 var infoFour = [information[9], information[10], information[11]]
+var infoFive = [information[12], information[13]]
 
 console.log(infoOne)
 
@@ -53,9 +54,11 @@ const Portfolio = () => {
                   ))}
             </Row>
             <Row>
+            {infoFive.map(info => (
                 <Column>
-                    <App link={information[12].appLink} image={information[12].imgSrc} name={information[12].name} message={information[12].message} git={information[12].gitHub} tech={information[12].tech} />
+                    <App link={info.appLink} image={info.imgSrc} name={info.name} message={info.message} git={info.gitHub} tech={info.tech} />
                 </Column>
+                ))}
             </Row>
         </Container>
         <Parallax name="Feel free to contact me!" img="images/landscape3.jpg" />
