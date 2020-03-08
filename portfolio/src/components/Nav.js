@@ -25,7 +25,7 @@ const Nav = () => {
     <div className="divider"></div>
     <br></br>
     <h6>Resume</h6>
-    <a href="images/Issi_Resume.pdf"><img src="images/pdf.png"></img></a>
+    <a href="https://docs.google.com/document/d/1cofIdSRASvccdHMkob66eAWFUiBCKuUhodXqSwc0epo/edit?usp=sharing"><img src="images/pdf.png"></img></a>
 </ul>
 <a href="#" data-target="slide-out" className="sidenav-trigger blue-grey darken-4 btn">Personal Contact</a>
             

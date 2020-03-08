@@ -1,11 +1,11 @@
 const information = [
 {
-    name: "Psychic Game",
-    appLink: "https://illimitableissi.github.io/Psychic-Game",
-    gitHub: "https://github.com/illimitableissi/Psychic-Game.git",
-    imgSrc: "images/psychic.PNG",
-    message: "The app randomly picks a letter, and the user has to guess which letter the app chose.",
-    tech: "HTML5, CSS, Javascript"
+    name: "Profyle",
+    appLink: "https://profyle.herokuapp.com/",
+    gitHub: "https://github.com/illimitableissi/Profyle",
+    imgSrc: "images/homescreen.PNG",
+    message: "Complete MERN stack app. Profyle is an About Me page creation app",
+    tech: "MongoDB, React.js, Express.js, Node, CSS, React-Bootstrap, "
 },
 {
     name: "Crystal Collector",
@@ -102,14 +102,6 @@ const information = [
     imgSrc: "images/kangaroo.PNG",
     message: "Complete MERN stack app. Kangaroo helps lease holders looking to sub-lease their property find lease seekers",
     tech: "MongoDB, React.js, Express.js, Node, CSS, Bootstrap, "
-},
-{
-    name: "Profyle",
-    appLink: "https://profyle.herokuapp.com/",
-    gitHub: "https://github.com/illimitableissi/Profyle",
-    imgSrc: "images/homescreen.PNG",
-    message: "Complete MERN stack app. Profyle is an About Me page creation app",
-    tech: "MongoDB, React.js, Express.js, Node, CSS, React-Bootstrap, "
 }
 ]
 

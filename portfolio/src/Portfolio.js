@@ -13,7 +13,7 @@ var infoOne = [information[0], information[1], information[2]]
 var infoTwo = [information[3], information[4], information[5]]
 var infoThree = [information[6], information[7], information[8]]
 var infoFour = [information[9], information[10], information[11]]
-var infoFive = [information[12], information[13]]
+var infoFive = [information[12]]
 
 console.log(infoOne)
 
